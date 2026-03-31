@@ -1,5 +1,5 @@
 Climate crisis project
-A one-page accessible website about the water crisis in Kenya, built as part of CSC 317 - Web Software Development at San Francisco State University.
+water crisis in Kenya, built as part of CSC 317 - Web Software Development at San Francisco State University.
 Contributors
 Davis Oduor
 Joonsung Oh
